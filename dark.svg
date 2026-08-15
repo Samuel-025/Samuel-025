@@ -2,7 +2,7 @@
   xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet"
   role="img" aria-labelledby="titleId descId">
   <title id="titleId">Suyash Madke — GitHub Profile Header (dark theme)</title>
-  <desc id="descId">Animated glassmorphism GitHub profile hero banner for Suyash Madke, featuring an ASCII portrait terminal, a typewriter role animation, key info, skill pills and social links.</desc>
+  <desc id="descId">GitHub profile hero banner for Suyash Madke, a B.Sc. Data Science graduate focused on Python, Data Science, Applied AI, Analytics and Federated Learning.</desc>
 
 
   <defs>
@@ -289,47 +289,47 @@
       <g id="roleTypewriter">
       <clipPath id="roleClip0">
         <rect x="516" y="179" width="0" height="37">
-          <animate attributeName="width" values="0;214.8;214.8;0;0"
+          <animate attributeName="width" values="0;250.0;250.0;0;0"
             keyTimes="0;0.02917;0.15417;0.1875;1" dur="12.0s" begin="0.0s" repeatCount="indefinite"/>
         </rect>
       </clipPath>
       <text x="516" y="200" clip-path="url(#roleClip0)" font-family="'SFMono-Regular', Consolas, monospace"
-        font-weight="600" font-size="21" fill="url(#accentGrad)">Frontend Engineer</text>
+        font-weight="600" font-size="21" fill="url(#accentGrad)">Data Science Student</text>
       <clipPath id="roleClip1">
         <rect x="516" y="179" width="0" height="37">
-          <animate attributeName="width" values="0;251.7;251.7;0;0"
+          <animate attributeName="width" values="0;185.0;185.0;0;0"
             keyTimes="0;0.02917;0.15417;0.1875;1" dur="12.0s" begin="2.4s" repeatCount="indefinite"/>
         </rect>
       </clipPath>
       <text x="516" y="200" clip-path="url(#roleClip1)" font-family="'SFMono-Regular', Consolas, monospace"
-        font-weight="600" font-size="21" fill="url(#accentGrad)">Full Stack Developer</text>
+        font-weight="600" font-size="21" fill="url(#accentGrad)">AI &amp; Analytics</text>
       <clipPath id="roleClip2">
         <rect x="516" y="179" width="0" height="37">
-          <animate attributeName="width" values="0;288.6;288.6;0;0"
+          <animate attributeName="width" values="0;210.0;210.0;0;0"
             keyTimes="0;0.02917;0.15417;0.1875;1" dur="12.0s" begin="4.8s" repeatCount="indefinite"/>
         </rect>
       </clipPath>
       <text x="516" y="200" clip-path="url(#roleClip2)" font-family="'SFMono-Regular', Consolas, monospace"
-        font-weight="600" font-size="21" fill="url(#accentGrad)">Open Source Contributor</text>
+        font-weight="600" font-size="21" fill="url(#accentGrad)">Python Developer</text>
       <clipPath id="roleClip3">
         <rect x="516" y="179" width="0" height="37">
-          <animate attributeName="width" values="0;141.1;141.1;0;0"
+          <animate attributeName="width" values="0;190.0;190.0;0;0"
             keyTimes="0;0.02917;0.15417;0.1875;1" dur="12.0s" begin="7.2s" repeatCount="indefinite"/>
         </rect>
       </clipPath>
       <text x="516" y="200" clip-path="url(#roleClip3)" font-family="'SFMono-Regular', Consolas, monospace"
-        font-weight="600" font-size="21" fill="url(#accentGrad)">UI Engineer</text>
+        font-weight="600" font-size="21" fill="url(#accentGrad)">Data Analytics</text>
       <clipPath id="roleClip4">
         <rect x="516" y="179" width="0" height="37">
-          <animate attributeName="width" values="0;165.7;165.7;0;0"
+          <animate attributeName="width" values="0;235.0;235.0;0;0"
             keyTimes="0;0.02917;0.15417;0.1875;1" dur="12.0s" begin="9.6s" repeatCount="indefinite"/>
         </rect>
       </clipPath>
       <text x="516" y="200" clip-path="url(#roleClip4)" font-family="'SFMono-Regular', Consolas, monospace"
-        font-weight="600" font-size="21" fill="url(#accentGrad)">AI Enthusiast</text>
+        font-weight="600" font-size="21" fill="url(#accentGrad)">Federated Learning</text>
         <rect x="516" y="182" width="2.5" height="22" fill="#22D3EE">
           <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="0.9s" repeatCount="indefinite"/>
-          <animate attributeName="x" values="516;746;516" dur="12.0s" repeatCount="indefinite"/>
+          <animate attributeName="x" values="516;900;516" dur="12.0s" repeatCount="indefinite"/>
         </rect>
       </g>
       <!-- sequential info reveal -->
@@ -339,7 +339,7 @@
         <text x="516" y="244" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">
           <tspan font-size="15">📍</tspan>
           <tspan dx="10" fill="#94A3B8" font-weight="600">Location:</tspan>
-          <tspan dx="6" fill="#F8FAFC">Thane, Maharashtra, India</tspan>
+          <tspan dx="6" fill="#F8FAFC">Vasind, Maharashtra, India</tspan>
         </text>
       </g>
       <g transform="translate(0,14)" opacity="0">
@@ -357,7 +357,7 @@
         <text x="516" y="294" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">
           <tspan font-size="15">🚀</tspan>
           <tspan dx="10" fill="#94A3B8" font-weight="600">Focus:</tspan>
-          <tspan dx="6" fill="#F8FAFC">AI-powered apps, Data Dashboards &amp; Local LLMs</tspan>
+          <tspan dx="6" fill="#F8FAFC">Python, Data Science, Applied AI &amp; Analytics</tspan>
         </text>
       </g>
       <g transform="translate(0,14)" opacity="0">
@@ -384,12 +384,12 @@
         <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.5s" begin="2.6s" fill="freeze" additive="sum"/>
         <g>
           <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="3.4s" begin="0.0s" repeatCount="indefinite"/>
-          <rect x="516.0" y="389" width="52.5" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
+          <rect x="889.6" y="389" width="89.0" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
             stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)">
             <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="0.0s" repeatCount="indefinite"/>
           </rect>
           <text x="542.2" y="407.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12.5" font-weight="600" fill="#E2E8F0">React</text>
+            font-size="12.5" font-weight="600" fill="#E2E8F0">TensorFlow</text>
         </g>
       </g>
       <g opacity="0" transform="translate(0,10)">
@@ -397,12 +397,12 @@
         <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.5s" begin="2.68s" fill="freeze" additive="sum"/>
         <g>
           <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="3.8s" begin="0.22s" repeatCount="indefinite"/>
-          <rect x="576.5" y="389" width="67.1" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
+          <rect x="583.8" y="389" width="40.0" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
             stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)">
             <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.8s" begin="0.22s" repeatCount="indefinite"/>
           </rect>
           <text x="610.0" y="407.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12.5" font-weight="600" fill="#E2E8F0">Next.js</text>
+            font-size="12.5" font-weight="600" fill="#E2E8F0">SQL</text>
         </g>
       </g>
       <g opacity="0" transform="translate(0,10)">
@@ -410,12 +410,12 @@
         <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.5s" begin="2.76s" fill="freeze" additive="sum"/>
         <g>
           <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="4.2s" begin="0.44s" repeatCount="indefinite"/>
-          <rect x="651.6" y="389" width="67.1" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
+          <rect x="631.8" y="389" width="67.1" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
             stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)">
             <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="4.2s" begin="0.44s" repeatCount="indefinite"/>
           </rect>
           <text x="685.1" y="407.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12.5" font-weight="600" fill="#E2E8F0">Node.js</text>
+            font-size="12.5" font-weight="600" fill="#E2E8F0">Pandas</text>
         </g>
       </g>
       <g opacity="0" transform="translate(0,10)">
@@ -423,12 +423,12 @@
         <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.5s" begin="2.84s" fill="freeze" additive="sum"/>
         <g>
           <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="4.6s" begin="0.66s" repeatCount="indefinite"/>
-          <rect x="726.7" y="389" width="89.0" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
+          <rect x="706.9" y="389" width="67.1" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
             stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)">
             <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="4.6s" begin="0.66s" repeatCount="indefinite"/>
           </rect>
           <text x="771.2" y="407.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12.5" font-weight="600" fill="#E2E8F0">TypeScript</text>
+            font-size="12.5" font-weight="600" fill="#E2E8F0">NumPy</text>
         </g>
       </g>
       <g opacity="0" transform="translate(0,10)">
@@ -436,12 +436,12 @@
         <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.5s" begin="2.92s" fill="freeze" additive="sum"/>
         <g>
           <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="3.4s" begin="0.88s" repeatCount="indefinite"/>
-          <rect x="823.7" y="389" width="103.6" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
+          <rect x="782.0" y="389" width="103.6" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
             stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)">
             <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="0.88s" repeatCount="indefinite"/>
           </rect>
           <text x="875.5" y="407.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12.5" font-weight="600" fill="#E2E8F0">Tailwind CSS</text>
+            font-size="12.5" font-weight="600" fill="#E2E8F0">Scikit-learn</text>
         </g>
       </g>
       <g opacity="0" transform="translate(0,10)">
@@ -462,12 +462,12 @@
         <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.5s" begin="3.08s" fill="freeze" additive="sum"/>
         <g>
           <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="4.2s" begin="1.32s" repeatCount="indefinite"/>
-          <rect x="1003.1" y="389" width="59.8" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
+          <rect x="982.6" y="389" width="67.1" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
             stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)">
             <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="4.2s" begin="1.32s" repeatCount="indefinite"/>
           </rect>
           <text x="1033.0" y="407.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12.5" font-weight="600" fill="#E2E8F0">Docker</text>
+            font-size="12.5" font-weight="600" fill="#E2E8F0">FastAPI</text>
         </g>
       </g>
       <g opacity="0" transform="translate(0,10)">
@@ -475,12 +475,12 @@
         <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.5s" begin="3.16s" fill="freeze" additive="sum"/>
         <g>
           <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="4.6s" begin="1.54s" repeatCount="indefinite"/>
-          <rect x="516.0" y="423" width="89.0" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
+          <rect x="516.0" y="423" width="82.0" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
             stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)">
             <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="4.6s" begin="1.54s" repeatCount="indefinite"/>
           </rect>
           <text x="560.5" y="441.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12.5" font-weight="600" fill="#E2E8F0">PostgreSQL</text>
+            font-size="12.5" font-weight="600" fill="#E2E8F0">Streamlit</text>
         </g>
       </g>
       <g opacity="0" transform="translate(0,10)">
@@ -488,12 +488,12 @@
         <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.5s" begin="3.24s" fill="freeze" additive="sum"/>
         <g>
           <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="3.4s" begin="1.76s" repeatCount="indefinite"/>
-          <rect x="613.0" y="423" width="37.9" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
+          <rect x="649.9" y="423" width="59.8" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
             stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)">
             <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="3.4s" begin="1.76s" repeatCount="indefinite"/>
           </rect>
           <text x="632.0" y="441.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12.5" font-weight="600" fill="#E2E8F0">AWS</text>
+            font-size="12.5" font-weight="600" fill="#E2E8F0">GitHub</text>
         </g>
       </g>
       <g opacity="0" transform="translate(0,10)">
@@ -514,12 +514,12 @@
         <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.5s" begin="3.4s" fill="freeze" additive="sum"/>
         <g>
           <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="4.2s" begin="2.2s" repeatCount="indefinite"/>
-          <rect x="704.8" y="423" width="52.5" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
+          <rect x="716.0" y="423" width="120.0" height="26" rx="15" fill="#0B1220" fill-opacity="0.55"
             stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)">
             <animate attributeName="stroke-opacity" values="0.45;0.9;0.45" dur="4.2s" begin="2.2s" repeatCount="indefinite"/>
           </rect>
           <text x="731.0" y="441.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
-            font-size="12.5" font-weight="600" fill="#E2E8F0">Figma</text>
+            font-size="12.5" font-weight="600" fill="#E2E8F0">Federated Learning</text>
         </g>
       </g>
       <!-- social links -->
@@ -562,20 +562,6 @@
           <g transform="translate(622,474) scale(0.75)" fill="#F8FAFC">
             <title>Portfolio</title>
             <path d="M12 2a10 10 0 1 0 .001 20.001A10 10 0 0 0 12 2Zm6.93 6H15.7a15.9 15.9 0 0 0-1.38-4.24A8.03 8.03 0 0 1 18.93 8ZM12 4.06c.8 1.13 1.66 2.7 2.14 3.94H9.86c.48-1.24 1.34-2.81 2.14-3.94ZM4.26 14A7.9 7.9 0 0 1 4 12c0-.69.09-1.36.26-2h3.68A16.6 16.6 0 0 0 7.8 12c0 .68.06 1.35.14 2H4.26Zm.81 2h3.23c.32 1.53.85 2.98 1.42 4.24A8.03 8.03 0 0 1 5.07 16Zm3.23-8H5.07a8.03 8.03 0 0 1 4.65-4.24C9.15 5.02 8.62 6.47 8.3 8ZM12 19.94c-.8-1.13-1.66-2.7-2.14-3.94h4.28c-.48 1.24-1.34 2.81-2.14 3.94ZM14.66 14H9.34A14.7 14.7 0 0 1 9.14 12c0-.68.08-1.36.2-2h5.32c.12.64.2 1.32.2 2 0 .68-.08 1.36-.2 2Zm.03 5.24c.57-1.26 1.1-2.71 1.42-4.24h3.23a8.03 8.03 0 0 1-4.65 4.24ZM16.2 14c.08-.65.14-1.32.14-2s-.06-1.35-.14-2h3.68c.17.64.26 1.31.26 2s-.09 1.31-.26 2H16.2Z"/>
-          </g>
-        </g>
-      </a>
-      <a href="#" target="_blank">
-        <g opacity="0" transform="translate(0,10)">
-          <animate attributeName="opacity" values="0;1" dur="0.5s" begin="3.85s" fill="freeze"/>
-          <animateTransform attributeName="transform" type="translate" values="0,10;0,0" dur="0.5s" begin="3.85s" fill="freeze" additive="sum"/>
-          <circle cx="681" cy="483" r="15" fill="#0B1220" fill-opacity="0.55"
-            stroke="url(#accentGrad)" stroke-width="1" filter="url(#glowSoft)">
-            <animate attributeName="r" values="15;16.2;15" dur="3.9s" repeatCount="indefinite"/>
-          </circle>
-          <g transform="translate(672,474) scale(0.75)" fill="#F8FAFC">
-            <title>X</title>
-            <path d="M18.24 3H21l-6.53 7.46L22.14 21h-6.02l-4.71-6.16L5.98 21H3.2l6.98-7.98L2.4 3h6.17l4.26 5.63L18.24 3Zm-1.06 16.17h1.67L7.9 4.74H6.1l11.08 14.43Z"/>
           </g>
         </g>
       </a>
