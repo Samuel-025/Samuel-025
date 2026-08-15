@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C1553B,100:1A1512&amp;height=190&amp;section=header&amp;text=Suyash%20Madke&amp;fontColor=F2E9DE&amp;fontSize=52&amp;fontAlignY=42&amp;desc=Data%20Science%20%7C%20AI%20%26%20Analytics%20%7C%20Python&amp;descAlignY=67&amp;descSize=20&amp;animation=twinkling" alt="Suyash Madke — Data Science, AI &amp; Analytics" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Suyash Madke" src="light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2600&amp;pause=700&amp;color=C1553B&amp;background=1A1512&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%24+whoami+%E2%86%92+Suyash+Madke;%24+focus+%E2%86%92+Data+Science+%2B+Applied+ML;%24+build+%E2%86%92+Python+applications+%2B+AI+tools;%24+specialty+%E2%86%92+Federated+Learning+%2B+Privacy-Preserving+ML;%24+learn+%E2%86%92+Python+%7C+SQL+%7C+Excel+%7C+Tableau" alt="Terminal typing animation" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Sc.%20Data%20Science-C1553B?style=flat-square&amp;labelColor=1A1512&amp;logoColor=F2E9DE" alt="B.Sc. Data Science" />
@@ -205,48 +204,11 @@ No LeetCode, HackerRank or GeeksforGeeks handle was provided, so no unverified c
 
 ### `$ github-analytics`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-025&amp;show_icons=true&amp;hide_border=false&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;icon_color=C1553B&amp;border_color=C1553B&amp;cache_seconds=86400" alt="GitHub statistics" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-025&amp;background=1A1512&amp;border=C1553B&amp;stroke=3D2C24&amp;ring=C1553B&amp;fire=C1553B&amp;currStreakNum=F2E9DE&amp;sideNums=F2E9DE&amp;currStreakLabel=C1553B&amp;sideLabels=F2E9DE&amp;dates=B9AA9D" alt="GitHub streak" height="180" />
-</p>
+GitHub contribution activity, repository statistics and contribution history are intentionally kept on GitHub itself rather than embedded through multiple third-party dashboard services.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-025&amp;layout=compact&amp;hide_border=false&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;icon_color=C1553B&amp;border_color=C1553B&amp;langs_count=8&amp;cache_seconds=86400" alt="Top languages" />
-</p>
+→ **[View GitHub profile](https://github.com/Samuel-025)**
 
-### `$ trophies`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samuel-025&amp;theme=darkhub&amp;row=1&amp;column=7&amp;margin-w=10&amp;margin-h=10&amp;no-bg=true" alt="GitHub trophies" />
-</p>
-
-### `$ activity-graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuel-025&amp;bg_color=1A1512&amp;color=F2E9DE&amp;line=C1553B&amp;point=C1553B&amp;area=true&amp;area_color=3D2C24&amp;border_color=C1553B&amp;title_color=C1553B&amp;custom_title=Contribution%20Activity&amp;hide_border=false" alt="GitHub activity graph" width="100%" />
-</p>
-
-### `$ summary-cards`
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuel-025&amp;theme=dark&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;border_color=C1553B&amp;icon_color=C1553B" alt="Profile details" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samuel-025&amp;theme=dark&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;border_color=C1553B&amp;icon_color=C1553B" alt="Repositories per language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samuel-025&amp;theme=dark&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;border_color=C1553B&amp;icon_color=C1553B" alt="Most commit language" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samuel-025&amp;theme=dark&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;border_color=C1553B&amp;icon_color=C1553B" alt="GitHub summary stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samuel-025&amp;theme=dark&amp;utcOffset=5.5&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;border_color=C1553B&amp;icon_color=C1553B" alt="Productive time" width="49%" />
-</p>
-
-### `$ snake`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Samuel-025/Samuel-025/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-</p>
+This keeps the profile lightweight and avoids broken or rate-limited external statistics cards.
 
 ### `$ current-focus`
 
@@ -291,5 +253,5 @@ open_to:
 > **“Build useful things. Learn deeply. Let the work compound.”**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&amp;color=0:C1553B,100:1A1512&amp;height=120&amp;section=footer" alt="Footer" width="100%" />
+  <sub>Built with Markdown · Maintained on GitHub</sub>
 </p>
