@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:C1553B,100:1A1512&height=190&section=header&text=Suyash%20Madke&fontColor=F2E9DE&fontSize=52&fontAlignY=42&desc=Data%20Science%20%7C%20AI%20%26%20Analytics%20%7C%20Python&descAlignY=67&descSize=20&animation=twinkling" alt="Suyash Madke — Data Science, AI & Analytics" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C1553B,100:1A1512&amp;height=190&amp;section=header&amp;text=Suyash%20Madke&amp;fontColor=F2E9DE&amp;fontSize=52&amp;fontAlignY=42&amp;desc=Data%20Science%20%7C%20AI%20%26%20Analytics%20%7C%20Python&amp;descAlignY=67&amp;descSize=20&amp;animation=twinkling" alt="Suyash Madke — Data Science, AI &amp; Analytics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=C1553B&background=1A1512&center=true&vCenter=true&width=900&lines=%24+whoami+%E2%86%92+Suyash+Madke;%24+focus+%E2%86%92+Data+Science+%2B+Applied+ML;%24+build+%E2%86%92+Python+applications+%2B+AI+tools;%24+specialty+%E2%86%92+Federated+Learning+%2B+Privacy-Preserving+ML;%24+learn+%E2%86%92+Python+%7C+SQL+%7C+Excel+%7C+Tableau" alt="Terminal typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2600&amp;pause=700&amp;color=C1553B&amp;background=1A1512&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%24+whoami+%E2%86%92+Suyash+Madke;%24+focus+%E2%86%92+Data+Science+%2B+Applied+ML;%24+build+%E2%86%92+Python+applications+%2B+AI+tools;%24+specialty+%E2%86%92+Federated+Learning+%2B+Privacy-Preserving+ML;%24+learn+%E2%86%92+Python+%7C+SQL+%7C+Excel+%7C+Tableau" alt="Terminal typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc.%20Data%20Science-C1553B?style=flat-square&labelColor=1A1512&logoColor=F2E9DE" alt="B.Sc. Data Science" />
-  <img src="https://img.shields.io/badge/University%20of%20Mumbai-C1553B?style=flat-square&labelColor=1A1512&logoColor=F2E9DE" alt="University of Mumbai" />
-  <img src="https://img.shields.io/badge/Vasind%2C%20Maharashtra%2C%20India-C1553B?style=flat-square&labelColor=1A1512&logoColor=F2E9DE" alt="Location" />
+  <img src="https://img.shields.io/badge/B.Sc.%20Data%20Science-C1553B?style=flat-square&amp;labelColor=1A1512&amp;logoColor=F2E9DE" alt="B.Sc. Data Science" />
+  <img src="https://img.shields.io/badge/University%20of%20Mumbai-C1553B?style=flat-square&amp;labelColor=1A1512&amp;logoColor=F2E9DE" alt="University of Mumbai" />
+  <img src="https://img.shields.io/badge/Vasind%2C%20Maharashtra%2C%20India-C1553B?style=flat-square&amp;labelColor=1A1512&amp;logoColor=F2E9DE" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="https://samuel-025.github.io/My-Portfiolo/"><img src="https://img.shields.io/badge/Portfolio-C1553B?style=for-the-badge&labelColor=1A1512&logo=googlechrome&logoColor=F2E9DE" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/suyash-madke-775503314/"><img src="https://img.shields.io/badge/LinkedIn-C1553B?style=for-the-badge&labelColor=1A1512&logo=linkedin&logoColor=F2E9DE" alt="LinkedIn" /></a>
-  <a href="mailto:suyashmadke24@gmail.com"><img src="https://img.shields.io/badge/Email-C1553B?style=for-the-badge&labelColor=1A1512&logo=gmail&logoColor=F2E9DE" alt="Email" /></a>
-  <a href="https://github.com/Samuel-025"><img src="https://img.shields.io/badge/GitHub-C1553B?style=for-the-badge&labelColor=1A1512&logo=github&logoColor=F2E9DE" alt="GitHub" /></a>
+  <a href="https://samuel-025.github.io/My-Portfiolo/"><img src="https://img.shields.io/badge/Portfolio-C1553B?style=for-the-badge&amp;labelColor=1A1512&amp;logo=googlechrome&amp;logoColor=F2E9DE" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/suyash-madke-775503314/"><img src="https://img.shields.io/badge/LinkedIn-C1553B?style=for-the-badge&amp;labelColor=1A1512&amp;logo=linkedin&amp;logoColor=F2E9DE" alt="LinkedIn" /></a>
+  <a href="mailto:suyashmadke24@gmail.com"><img src="https://img.shields.io/badge/Email-C1553B?style=for-the-badge&amp;labelColor=1A1512&amp;logo=gmail&amp;logoColor=F2E9DE" alt="Email" /></a>
+  <a href="https://github.com/Samuel-025"><img src="https://img.shields.io/badge/GitHub-C1553B?style=for-the-badge&amp;labelColor=1A1512&amp;logo=github&amp;logoColor=F2E9DE" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samuel-025&style=flat-square&color=C1553B&labelColor=1A1512" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Samuel-025?style=flat-square&color=C1553B&labelColor=1A1512&logo=github&logoColor=F2E9DE" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Samuel-025?style=flat-square&color=C1553B&labelColor=1A1512&logo=github&logoColor=F2E9DE" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Samuel-025&amp;style=flat-square&amp;color=C1553B&amp;labelColor=1A1512" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Samuel-025?style=flat-square&amp;color=C1553B&amp;labelColor=1A1512&amp;logo=github&amp;logoColor=F2E9DE" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Samuel-025?style=flat-square&amp;color=C1553B&amp;labelColor=1A1512&amp;logo=github&amp;logoColor=F2E9DE" alt="Stars" />
 </p>
 
 ### `$ whoami`
@@ -60,12 +60,12 @@ OPEN_TO   = Data Science | AI/ML | Data Analytics | Python opportunities
 ### `$ specialties`
 
 <p>
-  <img src="https://img.shields.io/badge/Federated%20Learning-C1553B?style=flat-square&labelColor=1A1512" alt="Federated Learning" />
-  <img src="https://img.shields.io/badge/Privacy--Preserving%20ML-C1553B?style=flat-square&labelColor=1A1512" alt="Privacy-Preserving ML" />
-  <img src="https://img.shields.io/badge/Applied%20AI-C1553B?style=flat-square&labelColor=1A1512" alt="Applied AI" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-C1553B?style=flat-square&labelColor=1A1512" alt="Data Analytics" />
-  <img src="https://img.shields.io/badge/Python%20Development-C1553B?style=flat-square&labelColor=1A1512" alt="Python Development" />
-  <img src="https://img.shields.io/badge/LLM%20Integration-C1553B?style=flat-square&labelColor=1A1512" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/Federated%20Learning-C1553B?style=flat-square&amp;labelColor=1A1512" alt="Federated Learning" />
+  <img src="https://img.shields.io/badge/Privacy--Preserving%20ML-C1553B?style=flat-square&amp;labelColor=1A1512" alt="Privacy-Preserving ML" />
+  <img src="https://img.shields.io/badge/Applied%20AI-C1553B?style=flat-square&amp;labelColor=1A1512" alt="Applied AI" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-C1553B?style=flat-square&amp;labelColor=1A1512" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Python%20Development-C1553B?style=flat-square&amp;labelColor=1A1512" alt="Python Development" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-C1553B?style=flat-square&amp;labelColor=1A1512" alt="LLM Integration" />
 </p>
 
 ### `$ expertise`
@@ -191,8 +191,8 @@ A modern Streamlit + CLI learning tool for saving, organising, summarising, down
 ### `$ education`
 
 <p>
-  <img src="https://img.shields.io/badge/B.Sc.%20Data%20Science-C1553B?style=for-the-badge&labelColor=1A1512&logo=google-scholar&logoColor=F2E9DE" alt="Bachelor of Science in Data Science" />
-  <img src="https://img.shields.io/badge/University%20of%20Mumbai-C1553B?style=for-the-badge&labelColor=1A1512&logoColor=F2E9DE" alt="University of Mumbai" />
+  <img src="https://img.shields.io/badge/B.Sc.%20Data%20Science-C1553B?style=for-the-badge&amp;labelColor=1A1512&amp;logo=google-scholar&amp;logoColor=F2E9DE" alt="Bachelor of Science in Data Science" />
+  <img src="https://img.shields.io/badge/University%20of%20Mumbai-C1553B?style=for-the-badge&amp;labelColor=1A1512&amp;logoColor=F2E9DE" alt="University of Mumbai" />
 </p>
 
 **Bachelor of Science in Data Science — University of Mumbai**
@@ -206,40 +206,40 @@ No LeetCode, HackerRank or GeeksforGeeks handle was provided, so no unverified c
 ### `$ github-analytics`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-025&show_icons=true&hide_border=false&bg_color=1A1512&title_color=C1553B&text_color=F2E9DE&icon_color=C1553B&border_color=C1553B&cache_seconds=86400" alt="GitHub statistics" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-025&background=1A1512&border=C1553B&stroke=3D2C24&ring=C1553B&fire=C1553B&currStreakNum=F2E9DE&sideNums=F2E9DE&currStreakLabel=C1553B&sideLabels=F2E9DE&dates=B9AA9D" alt="GitHub streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-025&amp;show_icons=true&amp;hide_border=false&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;icon_color=C1553B&amp;border_color=C1553B&amp;cache_seconds=86400" alt="GitHub statistics" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-025&amp;background=1A1512&amp;border=C1553B&amp;stroke=3D2C24&amp;ring=C1553B&amp;fire=C1553B&amp;currStreakNum=F2E9DE&amp;sideNums=F2E9DE&amp;currStreakLabel=C1553B&amp;sideLabels=F2E9DE&amp;dates=B9AA9D" alt="GitHub streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-025&layout=compact&hide_border=false&bg_color=1A1512&title_color=C1553B&text_color=F2E9DE&icon_color=C1553B&border_color=C1553B&langs_count=8&cache_seconds=86400" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-025&amp;layout=compact&amp;hide_border=false&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;icon_color=C1553B&amp;border_color=C1553B&amp;langs_count=8&amp;cache_seconds=86400" alt="Top languages" />
 </p>
 
 ### `$ trophies`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samuel-025&theme=darkhub&row=1&column=7&margin-w=10&margin-h=10&no-bg=true" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Samuel-025&amp;theme=darkhub&amp;row=1&amp;column=7&amp;margin-w=10&amp;margin-h=10&amp;no-bg=true" alt="GitHub trophies" />
 </p>
 
 ### `$ activity-graph`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuel-025&bg_color=1A1512&color=F2E9DE&line=C1553B&point=C1553B&area=true&area_color=3D2C24&border_color=C1553B&title_color=C1553B&custom_title=Contribution%20Activity&hide_border=false" alt="GitHub activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuel-025&amp;bg_color=1A1512&amp;color=F2E9DE&amp;line=C1553B&amp;point=C1553B&amp;area=true&amp;area_color=3D2C24&amp;border_color=C1553B&amp;title_color=C1553B&amp;custom_title=Contribution%20Activity&amp;hide_border=false" alt="GitHub activity graph" width="100%" />
 </p>
 
 ### `$ summary-cards`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuel-025&theme=dark&bg_color=1A1512&title_color=C1553B&text_color=F2E9DE&border_color=C1553B&icon_color=C1553B" alt="Profile details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuel-025&amp;theme=dark&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;border_color=C1553B&amp;icon_color=C1553B" alt="Profile details" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samuel-025&theme=dark&bg_color=1A1512&title_color=C1553B&text_color=F2E9DE&border_color=C1553B&icon_color=C1553B" alt="Repositories per language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samuel-025&theme=dark&bg_color=1A1512&title_color=C1553B&text_color=F2E9DE&border_color=C1553B&icon_color=C1553B" alt="Most commit language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samuel-025&amp;theme=dark&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;border_color=C1553B&amp;icon_color=C1553B" alt="Repositories per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samuel-025&amp;theme=dark&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;border_color=C1553B&amp;icon_color=C1553B" alt="Most commit language" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samuel-025&theme=dark&bg_color=1A1512&title_color=C1553B&text_color=F2E9DE&border_color=C1553B&icon_color=C1553B" alt="GitHub summary stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samuel-025&theme=dark&utcOffset=5.5&bg_color=1A1512&title_color=C1553B&text_color=F2E9DE&border_color=C1553B&icon_color=C1553B" alt="Productive time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samuel-025&amp;theme=dark&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;border_color=C1553B&amp;icon_color=C1553B" alt="GitHub summary stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samuel-025&amp;theme=dark&amp;utcOffset=5.5&amp;bg_color=1A1512&amp;title_color=C1553B&amp;text_color=F2E9DE&amp;border_color=C1553B&amp;icon_color=C1553B" alt="Productive time" width="49%" />
 </p>
 
 ### `$ snake`
@@ -282,14 +282,14 @@ open_to:
 ### `$ connect`
 
 <p align="center">
-  <a href="https://samuel-025.github.io/My-Portfiolo/"><img src="https://img.shields.io/badge/Portfolio-C1553B?style=for-the-badge&labelColor=1A1512&logo=googlechrome&logoColor=F2E9DE" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/suyash-madke-775503314/"><img src="https://img.shields.io/badge/LinkedIn-C1553B?style=for-the-badge&labelColor=1A1512&logo=linkedin&logoColor=F2E9DE" alt="LinkedIn" /></a>
-  <a href="mailto:suyashmadke24@gmail.com"><img src="https://img.shields.io/badge/Email-C1553B?style=for-the-badge&labelColor=1A1512&logo=gmail&logoColor=F2E9DE" alt="Email" /></a>
-  <a href="https://github.com/Samuel-025"><img src="https://img.shields.io/badge/GitHub-C1553B?style=for-the-badge&labelColor=1A1512&logo=github&logoColor=F2E9DE" alt="GitHub" /></a>
+  <a href="https://samuel-025.github.io/My-Portfiolo/"><img src="https://img.shields.io/badge/Portfolio-C1553B?style=for-the-badge&amp;labelColor=1A1512&amp;logo=googlechrome&amp;logoColor=F2E9DE" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/suyash-madke-775503314/"><img src="https://img.shields.io/badge/LinkedIn-C1553B?style=for-the-badge&amp;labelColor=1A1512&amp;logo=linkedin&amp;logoColor=F2E9DE" alt="LinkedIn" /></a>
+  <a href="mailto:suyashmadke24@gmail.com"><img src="https://img.shields.io/badge/Email-C1553B?style=for-the-badge&amp;labelColor=1A1512&amp;logo=gmail&amp;logoColor=F2E9DE" alt="Email" /></a>
+  <a href="https://github.com/Samuel-025"><img src="https://img.shields.io/badge/GitHub-C1553B?style=for-the-badge&amp;labelColor=1A1512&amp;logo=github&amp;logoColor=F2E9DE" alt="GitHub" /></a>
 </p>
 
 > **“Build useful things. Learn deeply. Let the work compound.”**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:C1553B,100:1A1512&height=120&section=footer" alt="Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&amp;color=0:C1553B,100:1A1512&amp;height=120&amp;section=footer" alt="Footer" width="100%" />
 </p>
