@@ -7,9 +7,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Samuel-025"><img src="https://img.shields.io/badge/GitHub-Samuel--025-00E5FF?style=for-the-badge&labelColor=050814&logo=github&logoColor=00E5FF" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/suyash-madke-775503314"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&labelColor=050814&logo=linkedin&logoColor=6C63FF" alt="LinkedIn"></a>
-  <a href="mailto:suyashmadke24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF2BD6?style=for-the-badge&labelColor=050814&logo=gmail&logoColor=FF2BD6" alt="Email"></a>
+  <a href="https://github.com/Samuel-025"><img src="https://img.shields.io/badge/GitHub-Samuel--025-c95b3f?style=for-the-badge&logo=github&logoColor=white&labelColor=181a1f" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/suyash-madke-775503314"><img src="https://img.shields.io/badge/LinkedIn-Connect-c95b3f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181a1f" alt="LinkedIn"></a>
+  <a href="mailto:suyashmadke24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-c95b3f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181a1f" alt="Email"></a>
+</p>
+
+<p align="center"><code>$ focus → Data Science + Applied ML</code></p>
+
+<p align="center">
+  <code>B.Sc. Data Science</code> &nbsp; <code>University of Mumbai</code>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Samuel-025"><img src="https://komarev.com/ghpvc/?username=Samuel-025&style=flat-square&color=c95b3f&label=PROFILE+VIEWS" alt="Profile views"></a>
+  <a href="https://github.com/Samuel-025?tab=followers"><img src="https://img.shields.io/github/followers/Samuel-025?style=flat-square&label=followers&color=c95b3f&labelColor=181a1f" alt="GitHub followers"></a>
+  <a href="https://github.com/Samuel-025?tab=stars"><img src="https://img.shields.io/github/stars/Samuel-025?style=flat-square&label=stars&color=c95b3f&labelColor=181a1f" alt="GitHub stars"></a>
 </p>
 
 ### `$ whoami`
@@ -21,57 +33,56 @@
 > AI-assisted productivity, and practical finance applications.
 
 ```text
-ROLE      : Data Science student & Python developer
-DOMAIN    : Machine Learning · Federated Learning · Applied AI
-STACK     : Python · FastAPI · Streamlit · SQLite
-FOCUS     : Data analytics (Tableau) · Applied ML
-OPEN TO   : Data Analytics / BI · Python / Data Science / Applied AI
+ROLE      = Data Science Student | Python Developer
+DOMAIN    = Data Science | Machine Learning | Applied AI
+STACK     = Python | SQL | Pandas | NumPy | scikit-learn
+FOCUS     = Data Analytics | Applied ML | Federated Learning
+OPEN_TO   = Data Analytics / BI | Python / Data Science | Applied AI
 ```
 
-### `$ profile-signal`
+### `$ skill-tags`
 
-<p align="center">
-  <img src="profile-signal.svg" alt="Neon cyber data signal" width="100%">
-</p>
-
-**Core direction**
-
-`DATA SCIENCE` · `APPLIED AI` · `ANALYTICS` · `FEDERATED LEARNING`
+`Python` `Streamlit` `FastAPI` `SQL` `Pandas` `NumPy` `scikit-learn` `TensorFlow` `Tableau` `LLM APIs` `Git` `GitHub`
 
 ### `$ tech-stack`
 
-**Data / ML**
+**Data & ML**
 
-![Python](https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=050814)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=F8FBFF)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-FF2BD6?style=for-the-badge&logo=scikitlearn&logoColor=F8FBFF)
-![Tableau](https://img.shields.io/badge/Tableau-00E5FF?style=for-the-badge&logo=tableau&logoColor=050814)
+![Python](https://img.shields.io/badge/Python-c95b3f?style=for-the-badge&logo=python&logoColor=white&labelColor=181a1f)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-c95b3f?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=181a1f)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-c95b3f?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=181a1f)
+![Tableau](https://img.shields.io/badge/Tableau-c95b3f?style=for-the-badge&logo=tableau&logoColor=white&labelColor=181a1f)
 
-**Applications / Data**
+**Apps, Databases & Web**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-6C63FF?style=for-the-badge&logo=fastapi&logoColor=F8FBFF)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF2BD6?style=for-the-badge&logo=streamlit&logoColor=F8FBFF)
-![SQLite](https://img.shields.io/badge/SQLite-00E5FF?style=for-the-badge&logo=sqlite&logoColor=050814)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-6C63FF?style=for-the-badge&labelColor=050814)
+![FastAPI](https://img.shields.io/badge/FastAPI-c95b3f?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=181a1f)
+![Streamlit](https://img.shields.io/badge/Streamlit-c95b3f?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=181a1f)
+![SQLite](https://img.shields.io/badge/SQLite-c95b3f?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=181a1f)
+![Git](https://img.shields.io/badge/Git-c95b3f?style=for-the-badge&logo=git&logoColor=white&labelColor=181a1f)
+![GitHub](https://img.shields.io/badge/GitHub-c95b3f?style=for-the-badge&logo=github&logoColor=white&labelColor=181a1f)
+![HTML](https://img.shields.io/badge/HTML-c95b3f?style=for-the-badge&logo=html5&logoColor=white&labelColor=181a1f)
+![CSS](https://img.shields.io/badge/CSS-c95b3f?style=for-the-badge&logo=css3&logoColor=white&labelColor=181a1f)
+![JavaScript](https://img.shields.io/badge/JavaScript-c95b3f?style=for-the-badge&logo=javascript&logoColor=white&labelColor=181a1f)
 
-**Development**
-
-![Git](https://img.shields.io/badge/Git-FF2BD6?style=for-the-badge&logo=git&logoColor=F8FBFF)
-![GitHub](https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=050814)
-![HTML](https://img.shields.io/badge/HTML-6C63FF?style=for-the-badge&logo=html5&logoColor=F8FBFF)
-![CSS](https://img.shields.io/badge/CSS-FF2BD6?style=for-the-badge&logo=css3&logoColor=F8FBFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-00E5FF?style=for-the-badge&logo=javascript&logoColor=050814)
-
-<img src="language-stack.svg" alt="Decorative neon technology stack panel" width="100%">
+<img src="language-stack.svg" alt="Technology stack visual" width="100%">
 
 ### `$ specialties`
 
-| Signal | What it represents |
-|---|---|
-| `FEDERATED LEARNING` | Privacy-preserving ML work and final-year credit-risk project |
-| `APPLIED AI` | LLM-powered applications and practical AI integration |
-| `DATA ANALYTICS` | Data analysis and reporting, with Tableau as a current focus |
-| `PYTHON DEVELOPMENT` | CLI, Streamlit and FastAPI applications |
+<p>
+  <code>Federated Learning</code> <code>Privacy-Preserving ML</code> <code>Applied AI</code><br>
+  <code>Data Analytics</code> <code>Python Development</code> <code>LLM Integration</code>
+</p>
+
+### `$ expertise`
+
+| Domain | Level | Details |
+|---|---|---|
+| Python Development | Core | CLI tools, Streamlit apps, APIs, automation and application logic |
+| Data Science | Core | Data preparation, EDA, visualization and model evaluation |
+| Machine Learning | Core | scikit-learn workflows, baselines, evaluation and applied modeling |
+| Federated Learning | Focus | FedAvg, IID/Non-IID simulation and privacy-preserving credit-risk modeling |
+| Data Analytics | Focus | SQL, Excel/Tableau-oriented analytics and visualization |
+| Applied AI / LLMs | Working | Multi-provider LLM integration and AI-assisted applications |
 
 ### `$ featured-projects`
 
@@ -132,18 +143,71 @@ report export.
 
 </details>
 
-### `$ proof-of-work`
+### `$ achievements`
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Samuel-025?style=for-the-badge&label=FOLLOWERS&color=00E5FF&labelColor=050814" alt="GitHub followers">
+| Verified win | Evidence |
+|---|---|
+| **~76.5% federated accuracy** | Achieved after 15 FedAvg communication rounds |
+| **Within 2% of centralized baseline** | Federated model compared against the 78.2% strongest centralized baseline |
+| **233 tests passing** | YouTube Learning Tracker verified test suite |
+| **3-mode finance system** | Personal Finance Tracker: web dashboard + FastAPI REST server + Python CLI |
+| **16 public repositories** | Current GitHub account repository inventory |
+
+### `$ education`
+
+<p>
+  <code>🎓 B.Sc. Data Science</code> <code>University of Mumbai</code>
 </p>
 
-| Evidence | Verified signal |
-|---|---|
-| Federated ML | ~76.5% after 15 rounds vs 78.2% strongest centralized baseline |
-| Testing | 233 passing tests in YouTube Learning Tracker |
-| Applications | Streamlit / FastAPI projects with live demos where available |
-| Education | B.Sc. Data Science — University of Mumbai (2026) |
+**Bachelor of Science in Data Science — University of Mumbai (2026)**
+
+Focus areas: **Python, SQL, Excel, Tableau, data analysis & visualization,
+Machine Learning, AI, Pandas, NumPy, Matplotlib and web fundamentals.**
+
+### `$ coding-profiles`
+
+No verified LeetCode, HackerRank or GeeksforGeeks handle has been provided,
+so no unverified coding-profile links are included.
+
+### `$ github-analytics`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuel-025&show_icons=true&hide_border=true&bg_color=181a1f&title_color=c95b3f&text_color=E6E6E6&icon_color=c95b3f&count_private=true" alt="GitHub statistics" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-025&layout=compact&hide_border=true&bg_color=181a1f&title_color=c95b3f&text_color=E6E6E6&langs_count=8" alt="Top languages" width="49%">
+</p>
+
+### `$ activity-graph`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuel-025&bg_color=181a1f&color=E6E6E6&line=c95b3f&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%">
+</p>
+
+### `$ summary-cards`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuel-025&theme=github_dark" alt="GitHub profile summary" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samuel-025&theme=github_dark" alt="Top languages by repository" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samuel-025&theme=github_dark" alt="Top languages by commit" width="49%">
+</p>
+
+### `$ trophies`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samuel-025&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub trophies" width="100%">
+</p>
+
+### `$ snake`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samuel-025/Samuel-025/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuel-025/Samuel-025/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/Samuel-025/Samuel-025/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%">
+  </picture>
+</p>
 
 ### `$ development-journey`
 
@@ -155,22 +219,24 @@ EXPLORING → Privacy-preserving ML · data analytics
 
 No professional employment history is being claimed here.
 
-### `$ education`
-
-**B.Sc. Data Science — University of Mumbai (2026)**
-
 ### `$ current-focus`
 
 ```yaml
 learning:
-  - Data analytics (Tableau)
-  - Applied ML / federated learning
+  - Python
+  - SQL
+  - Excel
+  - Tableau
+  - Applied Machine Learning
+  - Data Analytics
 
 building:
   - Portfolio site (React + Vite)
+  - Python applications
 
 exploring:
   - Privacy-preserving ML
+  - Applied AI / LLM integration
 
 open_to:
   - Data Analytics / BI roles
@@ -180,9 +246,9 @@ open_to:
 ### `$ connect`
 
 <p align="center">
-  <a href="https://github.com/Samuel-025"><img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=050814&labelColor=050814" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/suyash-madke-775503314"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=F8FBFF&labelColor=050814" alt="LinkedIn"></a>
-  <a href="mailto:suyashmadke24@gmail.com"><img src="https://img.shields.io/badge/Email-FF2BD6?style=for-the-badge&logo=gmail&logoColor=F8FBFF&labelColor=050814" alt="Email"></a>
+  <a href="https://github.com/Samuel-025"><img src="https://img.shields.io/badge/GitHub-c95b3f?style=for-the-badge&logo=github&logoColor=white&labelColor=181a1f" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/suyash-madke-775503314"><img src="https://img.shields.io/badge/LinkedIn-c95b3f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181a1f" alt="LinkedIn"></a>
+  <a href="mailto:suyashmadke24@gmail.com"><img src="https://img.shields.io/badge/Email-c95b3f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181a1f" alt="Email"></a>
 </p>
 
 <p align="center"><sub>Build with evidence. Learn in public. Ship useful systems.</sub></p>
