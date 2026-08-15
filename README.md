@@ -202,6 +202,28 @@ Focus areas: Python, SQL, Excel, Tableau, data analysis & visualization, Machine
 
 No LeetCode, HackerRank or GeeksforGeeks handle was provided, so no unverified coding-profile links are included.
 
+## ⚡ Profile Signal
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="profile-signal.svg">
+    <img src="profile-signal.svg" alt="Suyash Madke profile signal">
+  </picture>
+</p>
+
+## 🧩 Language Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="language-stack.svg">
+    <img src="language-stack.svg" alt="Suyash Madke language stack">
+  </picture>
+</p>
+
+## 📈 Contribution Signal
+
+My GitHub contribution graph remains the source of truth for activity and consistency.
+
 ### `$ github-analytics`
 
 GitHub contribution activity, repository statistics and contribution history are intentionally kept on GitHub itself rather than embedded through multiple third-party dashboard services.
