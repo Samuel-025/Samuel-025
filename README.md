@@ -12,6 +12,10 @@
   <a href="mailto:suyashmadke24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-c95b3f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181a1f" alt="Email"></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=2800&pause=900&color=C95B3F&center=true&vCenter=true&width=760&lines=Data+Science+%7C+Python+%7C+Applied+ML;Federated+Learning+%7C+Data+Analytics+%7C+AI;Building+practical+systems+with+measurable+evidence" alt="Typing introduction" width="100%">
+</p>
+
 <p align="center"><code>$ focus → Data Science + Python + Applied ML</code></p>
 <p align="center"><code>B.Sc. Data Science · University of Mumbai · 2026</code></p>
 <p align="center"><sub>4 featured projects · ~76.5% federated accuracy · 233 tests passing</sub></p>
@@ -116,6 +120,10 @@ open_to:
 `Git` `GitHub` `HTML` `CSS` `JavaScript`
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=py,git,github,html,css,js&theme=dark" alt="Python, Git, GitHub, HTML, CSS and JavaScript icons" width="360">
+</p>
+
+<p align="center">
   <img src="language-stack.svg" alt="Decorative data-lab technology graphic" width="100%">
 </p>
 
@@ -202,6 +210,10 @@ No verified LeetCode, HackerRank or GeeksforGeeks handle has been provided, so n
   <a href="https://github.com/Samuel-025"><img src="https://img.shields.io/badge/GitHub-c95b3f?style=for-the-badge&logo=github&logoColor=white&labelColor=181a1f" alt="GitHub"></a>
   <a href="https://linkedin.com/in/suyash-madke-775503314"><img src="https://img.shields.io/badge/LinkedIn-c95b3f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=181a1f" alt="LinkedIn"></a>
   <a href="mailto:suyashmadke24@gmail.com"><img src="https://img.shields.io/badge/Email-c95b3f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=181a1f" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Samuel-025&style=flat-square&color=C95B3F&label=profile+views" alt="Profile views">
 </p>
 
 <p align="center"><sub>Build with evidence. Learn in public. Ship useful systems.</sub></p>
