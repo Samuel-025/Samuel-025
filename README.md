@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=C95B3F&center=true&vCenter=true&width=760&lines=Data+Science+%7C+Python+%7C+Applied+ML;Federated+Learning+%7C+Data+Analytics+%7C+AI;Building+practical+systems+with+measurable+evidence" alt="Typing introduction" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=9000&pause=1200&color=C95B3F&center=true&vCenter=true&width=760&lines=Data+Science+%7C+Python+%7C+Applied+ML;Federated+Learning+%7C+Data+Analytics+%7C+AI;Building+practical+systems+with+measurable+evidence" alt="Typing introduction" width="100%">
 </p>
 
 <p align="center"><code>$ focus → Data Science + Python + Applied ML</code></p>
