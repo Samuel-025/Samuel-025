@@ -14,6 +14,7 @@
 
 <p align="center"><code>$ focus → Data Science + Python + Applied ML</code></p>
 <p align="center"><code>B.Sc. Data Science</code> · <code>University of Mumbai · 2026</code></p>
+<p align="center"><sub>4 featured projects · ~76.5% federated accuracy · 233 tests passing</sub></p>
 
 <p align="center">
   <a href="https://github.com/Samuel-025"><img src="https://komarev.com/ghpvc/?username=Samuel-025&style=flat-square&color=c95b3f&label=PROFILE+VIEWS" alt="Profile views"></a>
