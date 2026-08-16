@@ -80,6 +80,8 @@ open_to:
   - Python / Data Science / Applied AI roles
 ```
 
+<p align="center"><img src="profile-signal.svg" alt="Data pipeline: Data → Python → ML → Analytics → Applied AI" width="100%"></p>
+
 ### `$ toolkit`
 
 **Data & ML**
