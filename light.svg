@@ -1,26 +1,21 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
-<title id="title">Suyash Madke — Neon Data Science Profile</title>
-<desc id="desc">Light neon cyber data-lab banner for Suyash Madke.</desc>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
+<title id="title">Decorative terminal data-lab banner</title>
+<desc id="desc">Light coral terminal-inspired abstract data visualization.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FBFF"/><stop offset="1" stop-color="#F3F0FA"/></linearGradient>
-  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00A8C4"/><stop offset=".52" stop-color="#6C63FF"/><stop offset="1" stop-color="#C6009C"/></linearGradient>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6C63FF" stroke-opacity=".10"/></pattern>
-  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf7"/><stop offset="1" stop-color="#f4ece8"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b74d35"/><stop offset=".55" stop-color="#c95b3f"/><stop offset="1" stop-color="#7e3023"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#c95b3f" stroke-opacity=".09"/></pattern>
 </defs>
-<rect width="1200" height="360" rx="20" fill="url(#bg)"/><rect width="1200" height="360" rx="20" fill="url(#grid)"/>
-<path d="M0 305 C170 255 240 335 400 286 S680 235 820 278 S1050 330 1200 245" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".32"/>
-<path d="M0 306 C170 256 240 336 400 287 S680 236 820 279 S1050 331 1200 246" fill="none" stroke="#00A8C4" stroke-width="1" opacity=".20" filter="url(#glow)"/>
-<rect x="1" y="1" width="1198" height="358" rx="19" fill="none" stroke="#6C63FF" stroke-opacity=".25"/><rect x="0" width="5" height="360" fill="#00A8C4" filter="url(#glow)"/>
-<g font-family="JetBrains Mono, Fira Code, monospace">
-  <text x="64" y="78" font-size="18" fill="#5A50E8">~/suyash</text>
-  <text x="64" y="145" font-size="58" font-weight="700" fill="#12091F">Suyash Madke</text>
-  <text x="64" y="188" font-size="24" fill="#0088A4">Data Science · Python · Applied AI · Analytics</text>
-  <text x="64" y="220" font-size="17" fill="#536184">B.Sc. Data Science — University of Mumbai · 2026</text>
-  <g transform="translate(64 250)">
-    <rect width="170" height="38" rx="19" fill="#F8FBFF" stroke="#00A8C4"/><text x="19" y="25" font-size="14" font-weight="700" fill="#0088A4">FEDERATED ML</text>
-    <rect x="184" width="150" height="38" rx="19" fill="#F8FBFF" stroke="#6C63FF"/><text x="205" y="25" font-size="14" font-weight="700" fill="#564DE1">ANALYTICS</text>
-    <rect x="348" width="148" height="38" rx="19" fill="#F8FBFF" stroke="#C6009C"/><text x="370" y="25" font-size="14" font-weight="700" fill="#C6009C">PYTHON</text>
-  </g>
-  <text x="64" y="329" font-size="13" fill="#657092">$ whoami · build · learn · ship</text>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#c95b3f" stroke-opacity=".28"/>
+<path d="M0 235 C120 210 180 260 300 226 S500 190 620 230 S820 265 930 218 S1080 205 1200 178" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".82"/>
+<path d="M0 236 C120 211 180 261 300 227 S500 191 620 231 S820 266 930 219 S1080 206 1200 179" fill="none" stroke="#c95b3f" stroke-width="1" opacity=".35"/>
+<g fill="none" stroke="#c95b3f" stroke-opacity=".48">
+  <path d="M72 68h130M72 84h88M72 100h112"/>
+  <path d="M1010 62h118M1040 78h88M1022 94h106"/>
+</g>
+<g fill="#c95b3f" opacity=".75">
+  <circle cx="250" cy="226" r="5"/><circle cx="470" cy="205" r="5"/><circle cx="700" cy="245" r="5"/><circle cx="930" cy="218" r="5"/>
 </g>
 </svg>

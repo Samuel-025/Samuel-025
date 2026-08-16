@@ -1,17 +1,17 @@
-<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
-<title id="title">Neon profile signal</title>
-<desc id="desc">Decorative cyber data signal with four connected capability nodes.</desc>
+<svg width="1200" height="190" viewBox="0 0 1200 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid meet">
+<title id="title">Decorative data signal</title>
+<desc id="desc">Abstract coral data signal with connected nodes.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050814"/><stop offset="1" stop-color="#12091F"/></linearGradient>
- <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00E5FF"/><stop offset=".5" stop-color="#6C63FF"/><stop offset="1" stop-color="#FF2BD6"/></linearGradient>
- <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#6C63FF" stroke-opacity=".10"/></pattern>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8f3d2b"/><stop offset=".5" stop-color="#c95b3f"/><stop offset="1" stop-color="#e07a58"/></linearGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#c95b3f" stroke-opacity=".07"/></pattern>
  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="240" rx="18" fill="url(#bg)"/><rect width="1200" height="240" rx="18" fill="url(#grid)"/>
-<rect x="1" y="1" width="1198" height="238" rx="17" fill="none" stroke="#6C63FF" stroke-opacity=".28"/>
-<path d="M110 120 H1090" stroke="url(#line)" stroke-width="2" opacity=".55"/>
-<path d="M110 120 C250 50 330 190 480 120 S710 50 820 120 S970 190 1090 120" fill="none" stroke="#00E5FF" stroke-opacity=".25" stroke-width="1"/>
-<g fill="#050814" stroke-width="2"><circle cx="150" cy="120" r="18" stroke="#00E5FF" filter="url(#glow)"/><circle cx="450" cy="120" r="18" stroke="#6C63FF" filter="url(#glow)"/><circle cx="750" cy="120" r="18" stroke="#FF2BD6" filter="url(#glow)"/><circle cx="1050" cy="120" r="18" stroke="#00E5FF" filter="url(#glow)"/></g>
-<g fill="#F8FBFF"><circle cx="150" cy="120" r="4"/><circle cx="450" cy="120" r="4"/><circle cx="750" cy="120" r="4"/><circle cx="1050" cy="120" r="4"/></g>
-<g stroke="url(#line)" opacity=".4"><path d="M90 60h120"/><path d="M390 180h120"/><path d="M690 60h120"/><path d="M990 180h120"/></g>
+<rect width="1200" height="190" rx="16" fill="#181a1f"/><rect width="1200" height="190" rx="16" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="188" rx="15" fill="none" stroke="#c95b3f" stroke-opacity=".25"/>
+<path d="M80 95 H1120" stroke="url(#line)" stroke-width="2" opacity=".7"/>
+<path d="M80 95 C180 35 260 150 390 95 S610 40 720 95 S930 155 1120 95" fill="none" stroke="#c95b3f" stroke-opacity=".25"/>
+<g fill="#181a1f" stroke="#c95b3f" stroke-width="2" filter="url(#glow)">
+ <circle cx="140" cy="95" r="15"/><circle cx="400" cy="95" r="15"/><circle cx="680" cy="95" r="15"/><circle cx="960" cy="95" r="15"/>
+</g>
+<g fill="#e07a58"><circle cx="140" cy="95" r="3"/><circle cx="400" cy="95" r="3"/><circle cx="680" cy="95" r="3"/><circle cx="960" cy="95" r="3"/></g>
 </svg>
