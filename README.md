@@ -123,10 +123,6 @@ open_to:
   <img src="https://skillicons.dev/icons?i=py,git,github,html,css,js&theme=dark" alt="Python, Git, GitHub, HTML, CSS and JavaScript icons" width="360">
 </p>
 
-<p align="center">
-  <img src="language-stack.svg" alt="Decorative data-lab technology graphic" width="100%">
-</p>
-
 ### `$ technical-focus`
 
 > These are self-described working areas, not independently certified skill levels.
@@ -137,6 +133,10 @@ open_to:
 - **Federated Learning** — FedAvg, IID/Non-IID simulation and privacy-preserving credit-risk modeling.
 - **Data Analytics** — SQL, Excel/Tableau-oriented analysis and visualization.
 - **Applied AI / LLMs** — multi-provider LLM integration and AI-assisted applications.
+
+<p align="center">
+  <img src="language-stack.svg" alt="Decorative data-lab technology graphic" width="100%">
+</p>
 
 ### `$ evidence`
 
