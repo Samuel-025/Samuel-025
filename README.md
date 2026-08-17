@@ -48,6 +48,8 @@ Local-first app + CLI for saving YouTube videos, generating summaries and tracki
 
 **Test evidence:** **233 passing tests** across the verified project test suite.
 
+**Reproduce:** `pytest` runs the 233-test suite across 17 test modules.
+
 `Python` `Streamlit` `CLI`
 
 [View repository →](https://github.com/Samuel-025/youtube-learning-tracker)
