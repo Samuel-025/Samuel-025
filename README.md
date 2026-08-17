@@ -88,7 +88,7 @@ learning:
   - Data Analytics
 
 building:
-  - Portfolio site (React + Vite)
+  - Portfolio site (static HTML/CSS/JS)
   - Python applications
 
 exploring:
